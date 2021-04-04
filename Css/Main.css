@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+.background{
+	width:700px;
+	height:1200px;
+	background:#E9DEDE;
+	margin: auto;
+}
+.Box1{
+	width:700px;
+	height:200px;
+	background:#E7D6E2;
+	margin-top:100px;
+}
